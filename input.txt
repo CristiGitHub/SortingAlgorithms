@@ -1,0 +1,7 @@
+6
+100 10000 sorted
+20 20000 random
+60 50 AlmostSorted
+200 300 interstinggenalg
+121 211 interstinggenalg
+100 150 mountain

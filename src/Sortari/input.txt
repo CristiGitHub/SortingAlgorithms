@@ -1,0 +1,4 @@
+3
+100 10000 sorted
+20 20000 random
+60 50 AlmostSorted
