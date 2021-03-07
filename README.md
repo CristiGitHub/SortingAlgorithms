@@ -9,4 +9,4 @@ In input.txt on the first row is the number of tests nad than on each line the f
 
 PS: WIKIPEDIA reprisented a good inspiration for the Perlin Noise Generator ( https://en.wikipedia.org/wiki/Perlin_noise) I liked the concept of this kind of generation in the future i would like to improve my version of Perlin
 
-PSx2: If you find a bug don't hesitate to pacth it :D
+PSx2: If you find a bug don't hesitate to patch it :D
